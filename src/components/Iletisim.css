@@ -1,0 +1,30 @@
+.iletisim-tab {
+  margin: auto;
+  padding-top: 2%;
+}
+.iletisim-topic {
+  color: #23ad7f;
+}
+.iletisim-row {
+  display: flex;
+  justify-content: flex-end;
+  font-family: sans-serif;
+  margin: auto;
+  background-color: #333f48;
+}
+.iletisim-info {
+  text-align: center;
+  float: right;
+  margin: 0;
+  width: 50%;
+  border: 0;
+  padding-top: 2.5%;
+}
+.iletisim-text {
+  color: #a1aaad;
+  font-size: 15px;
+  text-decoration: none;
+}
+.iletisim-icon {
+  vertical-align: middle;
+}

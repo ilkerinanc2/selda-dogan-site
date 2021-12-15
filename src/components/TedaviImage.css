@@ -1,0 +1,32 @@
+.tedavi-image {
+  width: 98%;
+  border-radius: 30px;
+  margin: auto;
+  padding: 1%;
+  max-width: 500px;
+  transition: 1.5s;
+  filter: opacity(0.4);
+  -webkit-filter: opacity(0.4);
+}
+
+.tedavi-image:hover {
+  transition: 1.5s;
+  filter: opacity(1);
+  -webkit-filter: opacity(1);
+}
+
+.tedavi-image:hover + .tedavi-image-text {
+  transition: 1.5s;
+  color: #23ad7f;
+}
+
+.tedavi-image-text {
+  transition: 1.5s;
+  color: #5271ff;
+  margin-top: 1px;
+}
+
+.tedavi-image-text:hover {
+  transition: 1.5s;
+  color: #23ad7f;
+}

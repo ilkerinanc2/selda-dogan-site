@@ -1,0 +1,25 @@
+.col-container {
+  display: table; /* Make the container element behave like a table */
+  width: 100%; /* Set full-width to expand the whole page */
+}
+
+.col {
+  display: table-cell; /* Make elements inside the container behave like table cells */
+}
+
+#text-div {
+  background-color: #333f48;
+}
+
+.hakkimda-topic {
+  margin-top: 3%;
+  font-size: 30px;
+  color: #a1aaad;
+  text-align: center;
+}
+
+.hakkimda-text {
+  margin: 2% 2%;
+  color: #a1aaad;
+  text-align: justify;
+}

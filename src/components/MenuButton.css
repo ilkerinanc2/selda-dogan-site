@@ -1,0 +1,14 @@
+.MenuButton {
+  padding: 1%;
+  width: 100%;
+  color: #5271ff;
+  text-align: center;
+  transition: all 1s;
+  text-decoration: none;
+  line-height: 70px;
+}
+
+.MenuButton:hover {
+  color: #23ad7f;
+  background: #ffffff;
+}
