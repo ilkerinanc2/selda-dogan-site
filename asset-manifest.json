@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/selda-dogan-site/static/css/main.3acc2f4e.chunk.css",
+    "main.js": "/selda-dogan-site/static/js/main.4e92ddb9.chunk.js",
+    "main.js.map": "/selda-dogan-site/static/js/main.4e92ddb9.chunk.js.map",
+    "runtime-main.js": "/selda-dogan-site/static/js/runtime-main.4f68298d.js",
+    "runtime-main.js.map": "/selda-dogan-site/static/js/runtime-main.4f68298d.js.map",
+    "static/js/2.13dc5a95.chunk.js": "/selda-dogan-site/static/js/2.13dc5a95.chunk.js",
+    "static/js/2.13dc5a95.chunk.js.map": "/selda-dogan-site/static/js/2.13dc5a95.chunk.js.map",
+    "static/js/3.ef6bbfd3.chunk.js": "/selda-dogan-site/static/js/3.ef6bbfd3.chunk.js",
+    "static/js/3.ef6bbfd3.chunk.js.map": "/selda-dogan-site/static/js/3.ef6bbfd3.chunk.js.map",
+    "index.html": "/selda-dogan-site/index.html",
+    "static/css/main.3acc2f4e.chunk.css.map": "/selda-dogan-site/static/css/main.3acc2f4e.chunk.css.map",
+    "static/js/2.13dc5a95.chunk.js.LICENSE.txt": "/selda-dogan-site/static/js/2.13dc5a95.chunk.js.LICENSE.txt",
+    "static/media/Background.css": "/selda-dogan-site/static/media/background.4428cf98.jpg",
+    "static/media/cerrahi_girisimler.cf118ede.png": "/selda-dogan-site/static/media/cerrahi_girisimler.cf118ede.png",
+    "static/media/dis_eti.fc8de0d5.png": "/selda-dogan-site/static/media/dis_eti.fc8de0d5.png",
+    "static/media/kanal_tedavisi.8908565f.png": "/selda-dogan-site/static/media/kanal_tedavisi.8908565f.png",
+    "static/media/kuron_kopru_protez.35ffb557.png": "/selda-dogan-site/static/media/kuron_kopru_protez.35ffb557.png",
+    "static/media/oral_implantoloji.b3ca7f97.png": "/selda-dogan-site/static/media/oral_implantoloji.b3ca7f97.png",
+    "static/media/ortodonti.82c60cd8.png": "/selda-dogan-site/static/media/ortodonti.82c60cd8.png",
+    "static/media/pedodonti.07cf542c.png": "/selda-dogan-site/static/media/pedodonti.07cf542c.png",
+    "static/media/protez_dis.ca62ea12.png": "/selda-dogan-site/static/media/protez_dis.ca62ea12.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4f68298d.js",
+    "static/js/2.13dc5a95.chunk.js",
+    "static/css/main.3acc2f4e.chunk.css",
+    "static/js/main.4e92ddb9.chunk.js"
+  ]
+}
